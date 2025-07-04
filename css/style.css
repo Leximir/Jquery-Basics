@@ -1,0 +1,4 @@
+#usernameWarning, #passwordWarning {
+    display: none;
+    color: red;
+}
